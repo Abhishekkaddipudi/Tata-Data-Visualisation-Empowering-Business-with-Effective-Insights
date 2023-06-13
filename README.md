@@ -1,8 +1,8 @@
-![tata](https://user-images.githubusercontent.com/27211670/190601774-db1cbc4d-0daa-4853-a890-ebc6c15895ab.jpg)
+
 
 
 # TATA Data Visualisation Empowering Business with Effective Insights
-![tataiq](https://user-images.githubusercontent.com/27211670/185741456-5b83cdef-ff9e-49e4-895f-2a543dad2dc7.jpg)
+
 
 The virtual experience programme is provided by Tata iQ or Tata Insights and Quants. I discover how passionate, multidisciplinary experts utilise data visualisation technologies like Tableau and Power BI to take on some of the most difficult business problems and uncover fascinating insights buried in the mountains of produced data. 
 
@@ -21,17 +21,6 @@ The programme demonstrates the kind of issues dealt with by Tata Insights and Qu
 ## **Task 1 - Framing the Business Scenario**
 Learn how to anticipate the questions your business leaders will need answers to.
 
-**Background info and context**
-
-An online retail store has hired you as a consultant to review their data and provide insights that would be valuable to the CEO and CMO of the business. The business has been performing well and the management wants to analyse what the major contributing factors are to the revenue so they can strategically plan for next year.
-
-The leadership is interested in viewing the metrics from both an operations and marketing perspective. Management also intends to expand the business and is interested in seeking guidance into areas that are performing well so they can keep a clear focus on what’s working. They would also like to view different metrics based on the demographic information that is available in the data.
-
-A meeting with the CEO and CMO has been scheduled for next month and you need to draft the relevant analytics and insights that would help evaluate the current business performance and suggest metrics that would enable them to make the decision on expansion.
-
-Remember, thinking from the perspective of business leaders allows you to analyse the data more effectively and present better insights.
-
-Access the links in the resources below to better understand how business leaders think and approach business performance.
 
 **Details for task**
 
@@ -48,11 +37,6 @@ Eight (8) questions in total (4 for the CEO and 4 for the CMO)
 ## **Task 2 - Choosing the Right Visuals**
 Learn which visuals are most effective in a given scenario
 
-**Background info and context**
-
-You have been asked by the CEO and CMO to provide visuals on the metrics that they wish to analyse for the online retail store. You will gather the requirements and provide them with the type of visual that would be best suited to the scenario. The senior management wants to understand how their business is performing and what areas are the key strengths of the company. They are also focused on identifying opportunities that would lead to growth and generate more revenue in the future.
-
-You will be provided multiple visualisation requests by the CEO and you would need to provide the visual which would explain the data and insights in the simplest possible manner. The visual should adequately convey the information that you are trying to present. This exercise is critical to the senior management as any incorrect representation can lead to a wrong message being conveyed, or a wrong decision taken by the management. Therefore, you would need to make sure that the correct visuals are used to represent each set of data.
 
 **Details for task**
 
@@ -64,12 +48,6 @@ To complete this task, answer the multiple-choice quiz. Start the quiz by clicki
 
 ## **Task 3 - Creating Effective Visuals**
 Apply your under and create visuals based on business scenarios
-
-**Background info and context**
-
-The CEO and CMO have recently met to finalise the requirements and would like you to provide them with some analysis and visuals that would help answer their questions. Both, the executives are interested in viewing and understanding how they can use the data to make more meaningful decisions. You would need to provide insights which they can use to create the expansion strategy. The executives want to analyse the trends and the breakdown by different categories so that they have clarity on how the revenue is being generated and what are the main factors affecting the online store.
-
-You will be provided with the requirements of the executives and how they want to view the data. After the requirement gathering phase, you would need to make sure that the data you are using is of good quality and does not contain any bad data that would have an adverse impact on your analysis. Once the data is cleaned, the next step would be to create the visuals on either Tableau or Power BI. No matter which tool you choose for the visuals, the result should be the same. These results will help the executives with effective decision making and assist in their expansion strategy.
 
 **Details for task**
 
@@ -110,12 +88,6 @@ The CEO is looking to gain insights on the demand for their products. He wants t
 
 ## **Task 4 - Communicating Insights and Analysis**
 Effectively communicate your findings and explain how it relates to each scenario
-
-**Background info and context**
-
-It’s time to present your findings to the CEO and CMO. They are interested in your thought process and how you have handled the data cleanup and visualisation phase. It is important to explain your thought process and ideas in a clear and straightforward way. You are also required to clearly present the analysis of all four questions from the previous task. Make sure you are well versed with the data and the conclusions you’ve made from your analysis. 
-
-Expansion is top of mind for these leaders and they’re keen to understand where the most lucrative opportunities are in their business.
 
 **Details for task**
 
